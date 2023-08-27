@@ -1,0 +1,85 @@
+Cost type,Date,Units,Cost per Unit
+Rent,Jan-23,1,5000
+Rent,Feb-23,1,5000
+Rent,Mar-23,1,5000
+Rent,Apr-23,1,5000
+Rent,May-23,1,5000
+Rent,Jun-23,1,5000
+Rent,Jul-23,1,5000
+Rent,Aug-23,1,5000
+Rent,Sep-23,1,5000
+Rent,Oct-23,1,5000
+Rent,Nov-23,1,5000
+Rent,Dec-23,1,5000
+Transportation,Jan-23,1.5,1000
+Transportation,Feb-23,1.5,1000
+Transportation,Mar-23,1.5,1000
+Transportation,Apr-23,1.5,1000
+Transportation,May-23,1.5,1000
+Transportation,Jun-23,1.5,1000
+Transportation,Jul-23,1.5,1000
+Transportation,Aug-23,1.5,1000
+Transportation,Sep-23,1.5,1000
+Transportation,Oct-23,2,1000
+Transportation,Nov-23,3,1000
+Transportation,Dec-23,3,1000
+Licenses,Jan-23,1,250
+Licenses,Feb-23,1,250
+Licenses,Mar-23,1,250
+Licenses,Apr-23,1,250
+Licenses,May-23,1,250
+Licenses,Jun-23,1,250
+Licenses,Jul-23,1,250
+Licenses,Aug-23,1,250
+Licenses,Sep-23,1,250
+Licenses,Oct-23,1,250
+Licenses,Nov-23,1,250
+Licenses,Dec-23,1,250
+Marketing,Jan-23,1,5000
+Marketing,Feb-23,1,5000
+Marketing,Mar-23,1,5000
+Marketing,Apr-23,1,5000
+Marketing,May-23,1,5000
+Marketing,Jun-23,1,5000
+Marketing,Jul-23,1,5000
+Marketing,Aug-23,1,5000
+Marketing,Sep-23,1,5000
+Marketing,Oct-23,1,5000
+Marketing,Nov-23,1,5000
+Marketing,Dec-23,1,5000
+Consulting fees,Jan-23,1,1500
+Consulting fees,Feb-23,1,1500
+Consulting fees,Mar-23,1,1500
+Consulting fees,Apr-23,1,1500
+Consulting fees,May-23,1,1500
+Consulting fees,Jun-23,1,1500
+Consulting fees,Jul-23,1,1500
+Consulting fees,Aug-23,1,1500
+Consulting fees,Sep-23,1,1500
+Consulting fees,Oct-23,1,1500
+Consulting fees,Nov-23,1,1500
+Consulting fees,Dec-23,1,1500
+Offices,Jan-23,7,3000
+Offices,Feb-23,2,3000
+Offices,Mar-23,1,3000
+Offices,Apr-23,0,3000
+Offices,May-23,0,3000
+Offices,Jun-23,0,3000
+Offices,Jul-23,0,3000
+Offices,Aug-23,0,3000
+Offices,Sep-23,0,3000
+Offices,Oct-23,0,3000
+Offices,Nov-23,0,3000
+Offices,Dec-23,0,3000
+IT Infrastructure,Jan-23,1,10000
+IT Infrastructure,Feb-23,0,10000
+IT Infrastructure,Mar-23,0,10000
+IT Infrastructure,Apr-23,0,10000
+IT Infrastructure,May-23,0,10000
+IT Infrastructure,Jun-23,0,10000
+IT Infrastructure,Jul-23,0,10000
+IT Infrastructure,Aug-23,0,10000
+IT Infrastructure,Sep-23,0,10000
+IT Infrastructure,Oct-23,0,10000
+IT Infrastructure,Nov-23,0,10000
+IT Infrastructure,Dec-23,0,10000

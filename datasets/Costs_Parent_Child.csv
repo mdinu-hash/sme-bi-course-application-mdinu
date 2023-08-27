@@ -1,0 +1,11 @@
+Parent,Child
+Operating Expense,Fixed Investments
+Operating Expense,Depreciation
+Operating Expense,Business Expenses
+Business Expenses,Rent
+Business Expenses,Transportation
+Business Expenses,Licenses
+Business Expenses,Marketing
+Business Expenses,Consulting fees
+Fixed Investments,Offices
+Fixed Investments,IT Infrastructure
